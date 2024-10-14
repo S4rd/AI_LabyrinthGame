@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from queue import PriorityQueue
 import math
-
+# AI Labyrinth Game based on searching algorithms
 class RobotGame:
     def __init__(self, master):
         self.master = master
